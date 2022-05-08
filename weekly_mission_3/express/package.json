@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Servidor Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josue A. Rojas Paredes",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.1"
+  }
+}
