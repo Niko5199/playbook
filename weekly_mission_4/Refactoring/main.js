@@ -4,6 +4,7 @@ const Reader = require("./lib/utils/Reader");
 
 const objExplorers = Reader.readJsonFile("explorers.json");
 console.log(objExplorers);
+console.log(typeof objExplorers);
 
 const nodeExplorers = ExplorerService.filterByMission(objExplorers, "node");
 console.log(nodeExplorers);
