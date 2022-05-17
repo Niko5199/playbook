@@ -1,0 +1,17 @@
+{
+  "name": "weekly_mission_3",
+  "version": "1.0.0",
+  "description": "Agregar Servicios",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josue A. Rojas Paredes",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
